@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  margin-top: 200px; /* Arriba*/
+  margin-bottom: 50px; /* Abajo*/
+  font-family: 'Arial'; 
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 500px;
+}
